@@ -1,4 +1,12 @@
-
 # Supermarket list
 
-This is a simple supermarket list app, built with React and Vite. Please check the site: [Supermarket list App]( https://supermarket-list-rosy.vercel.app/)
+ #### It's a supermarket list app
+ 
+ Click [here](https://supermarket-list-rosy.vercel.app/) to go to the page
+ 
+ ## About the project
+ 
+ Built with: 
+ - React
+ - Javascript
+ - Vite js
